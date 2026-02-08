@@ -11,6 +11,6 @@ ______
 
 请务必将你在教程中获取的信息，与 [LineageOS repositories](https://github.com/LineageOS?utf8=✓&q=android_device)中的其他设备树进行交叉比对, **切勿**向文件中添加已弃用的属性等内容 —— 因为相关教程可能已过时.
 
-你可以为你的设备构建 [TWRP](https://twrp.me/) (第三方 Recovery) . 其官方编译教程可在此处查看 [here](https://forum.xda-developers.com/showthread.php?t=1943625) (由 [@Dees-Troy] (https://github.com/Dees-Troy) 撰写).
+你可以为你的设备构建 [TWRP](https://twrp.me/) (第三方 Recovery) . 其官方编译教程可在[此处](https://forum.xda-developers.com/showthread.php?t=1943625)查看  (由 [@Dees-Troy](https://github.com/Dees-Troy)撰写).
 ______
 ###### 免责声明: 本内容按 “现状” 提供。对于因使用本仓库提供的数据或引用内容而引发的任何问题，我不承担任何责任.
